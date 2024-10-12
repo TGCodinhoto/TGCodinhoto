@@ -1,5 +1,5 @@
 
-## Olá, Eu sou o Thiago Gravonski 👋🏻
+# Olá, Eu sou o Thiago Gravonski 👋🏻
 
 ### Apaixonado por tecnologia e programação. 👊🏼🔥
 
