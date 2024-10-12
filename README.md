@@ -1,7 +1,8 @@
 
-### Olá, Eu sou o Thiago Gravonski 👋🏻
+## Olá, Eu sou o Thiago Gravonski 👋🏻
 
- 
+### Apaixonado por tecnologia e programação. 👊🏼🔥
+
 ### Tecnologias que eu uso no meu dia:
 
 <div style="display: inline-block"><br/>
