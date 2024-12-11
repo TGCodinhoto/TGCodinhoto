@@ -1,10 +1,10 @@
-<h1 align="left">Olá, me chamo Thiago Gravonski 👋🏻</h1>
+<h1 align="left">Hi, my name is Thiago Gravonski 👋🏻</h1>
 
 ###
 
-<p align="left">Apaixonado por tecnologia e programação. 👊🏼🔥</p>
+<p align="left">Passionate about technology and programming 👊🏼🔥</p>
 
-<h2 align="left">Tecnologias que eu uso no meu dia:</h2>
+<h2 align="left">Techs used in my day</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="left">Redes Sociais:</h2>
+<h2 align="left">Social Media:</h2>
 
 ###
 
@@ -56,7 +56,7 @@
 </div>
 
 ###
-<h2 align="left">Statistics:</h2>
+<h2 align="left">Stats:</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TGCodinhoto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
