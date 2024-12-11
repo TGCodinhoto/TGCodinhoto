@@ -55,3 +55,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/TGCodinhoto/TGCodinhoto/output/snake.svg" alt="Snake animation" />
+
+###
