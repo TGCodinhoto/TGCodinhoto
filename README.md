@@ -4,7 +4,7 @@
 
 <p align="left">Passionate about technology and programming 👊🏼🔥</p>
 
-<h2 align="left">Techs used in my day</h2>
+<h2 align="left">Techs used in my day:</h2>
 
 ###
 
